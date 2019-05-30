@@ -1,0 +1,7 @@
+name: PacketTitles
+version: ${project.version}
+main: me.coolmike35.packettitles.PacketTitles
+commands:
+  packettitle:
+    description: Packet Title
+
